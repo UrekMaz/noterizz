@@ -52,17 +52,19 @@ In many colleges, students struggle with scattered study materials and lack dire
 
 > ⚠️ *Replace below image paths with actual screenshots in your repo (e.g., `/images/filename.png`).*
 
+### Home Page
+<img width="782" height="347" alt="image" src="https://github.com/user-attachments/assets/4ba943ad-0105-443b-891a-baad80dbdbe2" />
+
 ### 🎓 Student Dashboard
-![Student Dashboard](images/student-dashboard.png)
+<img width="1079" height="480" alt="image" src="https://github.com/user-attachments/assets/b742788a-e00f-46f2-acef-0f53f9afa064" />
 
-### 🧑‍🏫 Faculty Upload Page
-![Faculty Upload Page](images/faculty-upload.png)
+### 🧑‍🏫 Faculty side - Branch wise progess
+<img width="1032" height="457" alt="image" src="https://github.com/user-attachments/assets/f6cb1be4-bf68-4e2e-b0db-17e2de675887" />
 
-### 📥 Notes Upload Modal
-![Upload Modal](images/notes-upload.png)
 
-### ✏️ Bookmark & Like/Dislike
-![Bookmark & Likes](images/bookmark-likes.png)
+### 📥 Notes Pages
+<img width="1126" height="502" alt="image" src="https://github.com/user-attachments/assets/b560e3f0-a0d6-47e3-83a8-1bb1fcfd8dcf" />
+<img width="1119" height="504" alt="image" src="https://github.com/user-attachments/assets/11c52aa0-ba01-49ad-afb7-d695a4532809" />
 
 ---
 
